@@ -5,7 +5,7 @@ Ther are a handful of assembly directories which I have saved such as
 - jmp (196) - conditional always
 - beq0 (193) - branch when reg3 equal to 0
 - add (68) - reg1 + reg 2, store result in reg3
-- add (69) - reg1 - reg 2, store result in reg3
+- sub (69) - reg1 - reg 2, store result in reg3
 
 ```
 const reg0 0
